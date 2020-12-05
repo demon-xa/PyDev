@@ -7,3 +7,8 @@ for x in list:
 
 #for use when, you know numbers of circle
 #while when, you dont undestand numbers of iterration. While user input number
+
+
+for i in range(10):
+    if not i%2 == 0:
+        print (i+1)
