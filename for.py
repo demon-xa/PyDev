@@ -12,3 +12,7 @@ for x in list:
 for i in range(10):
     if not i%2 == 0:
         print (i+1)
+
+for i in range(5):
+    i=i+1
+    print('* ' * i)
